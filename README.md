@@ -9,3 +9,4 @@
 <p><a href="post/oster-food-steamer.md">Oster Food Steamer</a></p>
 <p><a href="post/black-and-decker-food-steamer.md">Black And Decker Food Steamer</a></p>
 <p><a href="post/cuisinart-food-steamer.md">Cuisinart Food Steamer</a></p>
+<p><a href="post/baby-food-maker-and-steamer.md">Baby Food Maker And Steamer</a></p>
