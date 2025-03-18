@@ -13,3 +13,4 @@
 <p><a href="post/ceramic-coating-electric-food-steamer-cooker.md">Ceramic Coating Electric Food Steamer Cooker</a></p>
 <p><a href="post/food-steamer-electric.md">Food Steamer Electric</a></p>
 <p><a href="post/small-food-steamer.md">Small Food Steamer</a></p>
+<p><a href="post/hamilton-beach-food-steamer.md">Hamilton Beach Food Steamer</a></p>
