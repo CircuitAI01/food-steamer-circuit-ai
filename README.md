@@ -16,3 +16,4 @@
 <p><a href="post/hamilton-beach-food-steamer.md">Hamilton Beach Food Steamer</a></p>
 <p><a href="post/baby-food-processor-and-steamer.md">Baby Food Processor And Steamer</a></p>
 <p><a href="post/bella-food-steamer.md">Bella Food Steamer</a></p>
+<p><a href="post/chinese-food-steamer.md">Chinese Food Steamer</a></p>
