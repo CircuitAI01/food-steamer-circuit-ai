@@ -23,3 +23,4 @@
 <p><a href="post/wolfgang-puck-food-steamer.md">Wolfgang Puck Food Steamer</a></p>
 <p><a href="post/aroma-rice-cooker-food-steamer-instructions.md">Aroma Rice Cooker Food Steamer Instructions</a></p>
 <p><a href="post/breville-food-steamer.md">Breville Food Steamer</a></p>
+<p><a href="post/countertop-food-steamer.md">Countertop Food Steamer</a></p>
