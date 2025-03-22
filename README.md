@@ -26,3 +26,4 @@
 <p><a href="post/countertop-food-steamer.md">Countertop Food Steamer</a></p>
 <p><a href="post/food-steamer-cooker.md">Food Steamer Cooker</a></p>
 <p><a href="post/food-steamer-metal.md">Food Steamer Metal</a></p>
+<p><a href="post/mini-food-steamer.md">Mini Food Steamer</a></p>
