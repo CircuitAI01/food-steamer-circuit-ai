@@ -34,3 +34,4 @@
 <p><a href="post/ceramic-food-steamer.md">Ceramic Food Steamer</a></p>
 <p><a href="post/food-steamer-and-blender.md">Food Steamer And Blender</a></p>
 <p><a href="post/portable-food-steamer.md">Portable Food Steamer</a></p>
+<p><a href="post/baby-food-blender-and-steamer.md">Baby Food Blender And Steamer</a></p>
