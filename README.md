@@ -37,3 +37,4 @@
 <p><a href="post/baby-food-blender-and-steamer.md">Baby Food Blender And Steamer</a></p>
 <p><a href="post/black-and-decker-food-steamer-and-rice-cooker.md">Black And Decker Food Steamer And Rice Cooker</a></p>
 <p><a href="post/food-steamer-pan.md">Food Steamer Pan</a></p>
+<p><a href="post/industrial-food-steamer.md">Industrial Food Steamer</a></p>
