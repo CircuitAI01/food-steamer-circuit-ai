@@ -39,3 +39,4 @@
 <p><a href="post/food-steamer-pan.md">Food Steamer Pan</a></p>
 <p><a href="post/industrial-food-steamer.md">Industrial Food Steamer</a></p>
 <p><a href="post/large-food-steamer.md">Large Food Steamer</a></p>
+<p><a href="post/mini-steamer-for-food.md">Mini Steamer For Food</a></p>
