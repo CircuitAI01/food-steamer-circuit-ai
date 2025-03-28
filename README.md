@@ -47,3 +47,4 @@
 <p><a href="post/aldi-food-steamer.md">Aldi Food Steamer</a></p>
 <p><a href="post/cuisinart-super-food-steamer.md">Cuisinart Super Food Steamer</a></p>
 <p><a href="post/food-steamer-appliance.md">Food Steamer Appliance</a></p>
+<p><a href="post/food-steamer-ikea.md">Food Steamer Ikea</a></p>
