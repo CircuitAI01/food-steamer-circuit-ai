@@ -52,3 +52,4 @@
 <p><a href="post/hamilton-beach-rice-cooker-and-food-steamer.md">Hamilton Beach Rice Cooker And Food Steamer</a></p>
 <p><a href="post/induction-food-steamer.md">Induction Food Steamer</a></p>
 <p><a href="post/japanese-food-steamer.md">Japanese Food Steamer</a></p>
+<p><a href="post/oster-5711-food-steamer.md">Oster 5711 Food Steamer</a></p>
