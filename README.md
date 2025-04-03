@@ -55,3 +55,4 @@
 <p><a href="post/oster-5711-food-steamer.md">Oster 5711 Food Steamer</a></p>
 <p><a href="post/ovente-food-steamer.md">Ovente Food Steamer</a></p>
 <p><a href="post/rival-food-steamer.md">Rival Food Steamer</a></p>
+<p><a href="post/stainless-steel-food-steamer-electric.md">Stainless Steel Food Steamer Electric</a></p>
