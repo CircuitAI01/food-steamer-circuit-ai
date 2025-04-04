@@ -60,3 +60,4 @@
 <p><a href="post/wooden-food-steamer.md">Wooden Food Steamer</a></p>
 <p><a href="post/3-tier-food-steamer.md">3 Tier Food Steamer</a></p>
 <p><a href="post/aroma-8-cup-digital-cool-touch-rice-cooker-and-food-steamer.md">Aroma 8 Cup Digital Cool-touch Rice Cooker And Food Steamer</a></p>
+<p><a href="post/aroma-rice-cooker-slow-cooker-food-steamer.md">Aroma Rice Cooker Slow Cooker Food Steamer</a></p>
