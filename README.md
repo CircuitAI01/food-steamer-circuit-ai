@@ -68,3 +68,4 @@
 <p><a href="post/food-steam-table.md">Food Steam Table</a></p>
 <p><a href="post/food-steamer-costco.md">Food Steamer Costco</a></p>
 <p><a href="post/food-steamer-pot.md">Food Steamer Pot</a></p>
+<p><a href="post/gas-food-steamer.md">Gas Food Steamer</a></p>
