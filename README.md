@@ -71,3 +71,4 @@
 <p><a href="post/gas-food-steamer.md">Gas Food Steamer</a></p>
 <p><a href="post/non-toxic-food-steamer.md">Non Toxic Food Steamer</a></p>
 <p><a href="post/richard-simmons-food-steamer.md">Richard Simmons Food Steamer</a></p>
+<p><a href="post/t-fal-food-steamer.md">T Fal Food Steamer</a></p>
