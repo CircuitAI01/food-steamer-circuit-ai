@@ -75,3 +75,4 @@
 <p><a href="post/table-top-food-steamer.md">Table Top Food Steamer</a></p>
 <p><a href="post/turbo-food-steamer.md">Turbo Food Steamer</a></p>
 <p><a href="post/aroma-rice-cooker-slow-cooker-and-food-steamer.md">Aroma Rice Cooker Slow Cooker And Food Steamer</a></p>
+<p><a href="post/bella-food-steamer-manual.md">Bella Food Steamer Manual</a></p>
