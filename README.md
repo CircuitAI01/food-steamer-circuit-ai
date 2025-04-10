@@ -78,3 +78,4 @@
 <p><a href="post/bella-food-steamer-manual.md">Bella Food Steamer Manual</a></p>
 <p><a href="post/food-steamer-3-tier.md">Food Steamer 3 Tier</a></p>
 <p><a href="post/food-steamer-for-restaurant.md">Food Steamer For Restaurant</a></p>
+<p><a href="post/food-steamer-machine.md">Food Steamer Machine</a></p>
