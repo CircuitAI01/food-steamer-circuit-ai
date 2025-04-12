@@ -83,3 +83,4 @@
 <p><a href="post/plastic-food-steamer.md">Plastic Food Steamer</a></p>
 <p><a href="post/restaurant-food-steamer.md">Restaurant Food Steamer</a></p>
 <p><a href="post/roundup-food-steamer.md">Roundup Food Steamer</a></p>
+<p><a href="post/steam-fast-food-simulator.md">Steam Fast Food Simulator</a></p>
