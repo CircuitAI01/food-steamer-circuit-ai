@@ -92,3 +92,4 @@
 <p><a href="post/philips-avent-food-steamer.md">Philips Avent Food Steamer</a></p>
 <p><a href="post/russell-hobbs-food-steamer.md">Russell Hobbs Food Steamer</a></p>
 <p><a href="post/steam-cabinet-for-food.md">Steam Cabinet For Food</a></p>
+<p><a href="post/steamer-food-pot.md">Steamer Food Pot</a></p>
