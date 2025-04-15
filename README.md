@@ -94,3 +94,4 @@
 <p><a href="post/steam-cabinet-for-food.md">Steam Cabinet For Food</a></p>
 <p><a href="post/steamer-food-pot.md">Steamer Food Pot</a></p>
 <p><a href="post/steel-food-steamer.md">Steel Food Steamer</a></p>
+<p><a href="post/aluminum-food-steamer.md">Aluminum Food Steamer</a></p>
